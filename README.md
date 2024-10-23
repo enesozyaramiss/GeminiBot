@@ -17,7 +17,7 @@ A valid Google Generative AI API key.
 
 ### Install the required dependencies:
 Make sure you have the google-generativeai package installed. 
-If not, you can install it using: #### !pip install google-generativeai
+If not, you can install it using: !pip install google-generativeai
 
 ### Set up your API key:
 Obtain your API key from the Google Cloud Console.
