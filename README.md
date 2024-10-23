@@ -16,7 +16,8 @@ Python 3.x installed on your machine.
 A valid Google Generative AI API key.
 
 ### Install the required dependencies:
-Make sure you have the google-generativeai package installed. If not, you can install it using: !pip install google-generativeai
+Make sure you have the google-generativeai package installed. 
+If not, you can install it using: #### !pip install google-generativeai
 
 ### Set up your API key:
 Obtain your API key from the Google Cloud Console.
@@ -24,7 +25,9 @@ Replace the placeholder API_KEY in the script with your actual API key: genai.co
 
 Start interacting with the chatbot by typing messages in the console. Type exit or quit to stop the chat session.
 #### Example:
+
 You: Hello
+
 Bot: Hi! How can I assist you today?
 
 ### Configuration
